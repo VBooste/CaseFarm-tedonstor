@@ -1,0 +1,1 @@
+"BES.exe" "путь до client.exe" 80 --add -J "путь до steam.exe" 80
